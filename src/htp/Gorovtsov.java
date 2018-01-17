@@ -8,4 +8,8 @@ public class Gorovtsov {
         System.out.println("Can i go to master?");
 
     }
+
+    public void setNewField(String newField) {
+        this.newField = newField;
+    }
 }
