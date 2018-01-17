@@ -7,6 +7,7 @@ public class Gorovtsov {
         System.out.println("First str changed by Denis");
         System.out.println("Can i go to master?");
         Gorovtsov gorovtsov = new Gorovtsov();
+        gorovtsov.setNewField("please, choose me for cherry merge!!");
     }
 
     public void setNewField(String newField) {
