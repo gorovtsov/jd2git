@@ -6,10 +6,11 @@ public class Gorovtsov {
         System.out.println("First str changed by gorovtsov");
         System.out.println("First str changed by Denis");
         System.out.println("Can i go to master?");
-
+        Gorovtsov gorovtsov = new Gorovtsov();
     }
 
     public void setNewField(String newField) {
         this.newField = newField;
     }
+
 }
